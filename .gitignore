@@ -11,3 +11,4 @@
 ### Build artefacts ###
 /public/*.js
 /public/*.css
+/coverage
