@@ -1,0 +1,13 @@
+### NPM ###
+/node_modules
+
+### Max OS ###
+.DS_Store
+
+### IntelliJ ###
+*.iml
+.idea
+
+### Build artefacts ###
+/public/*.js
+/public/*.css
