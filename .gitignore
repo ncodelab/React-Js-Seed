@@ -12,3 +12,4 @@
 /public/*.js
 /public/*.css
 /coverage
+*.log
