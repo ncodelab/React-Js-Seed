@@ -30,7 +30,7 @@
     "webpack": "^1.12.14"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "start": "webpack-dev-server --config webpack.config.js -d --inline --hot --output-public-path=/public/",
     "coverage": "jest --coverage",
     "prod": "webpack --config webpack-production.config.js -p"
