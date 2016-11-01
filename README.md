@@ -10,3 +10,4 @@ Use as a seed project.
 
 [codecov-badge]: https://codecov.io/github/ncodelab/React-Js-Seed/coverage.svg?branch=master
 [codecov]: https://codecov.io/github/ncodelab/React-Js-Seed?branch=master
+
